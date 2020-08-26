@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-d3-tutorial';
+  title = 'angular-chartJs-tutorial';
 }
